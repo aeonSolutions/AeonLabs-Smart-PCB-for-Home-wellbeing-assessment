@@ -1,5 +1,5 @@
 # AeonLabs Smart PCB for Home Wellbeing Assessment
-This repo contains the KiCad files for the Smart PCB for Home wellbeing assessment. Easy installation on any home or office glass window frame.  
+This repo contains the KiCad files for the Smart PCB for Home well-being assessment. Easy installation on any home or office glass window frame.  
 
 The PCB uses a ESP32-S3 packed with Bluetooth, BLE and WiFi ready to be programmed for Home Assistant.  
 
