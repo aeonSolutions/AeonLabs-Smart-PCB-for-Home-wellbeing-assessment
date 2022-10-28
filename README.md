@@ -25,7 +25,7 @@ Functionalities available:
 * Magnetic Buzzer;
 * **Bio copatible electromagnetic energy detection (Bio EMF) on glass windows at home or office** for biopotential measurements
   
-
+<br>
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
