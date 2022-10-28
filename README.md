@@ -76,7 +76,7 @@ Some known conductive paints for interior walls
  
 <br>
 ### other conductive materials
-[![]()](https://youtu.be/hXAfyW_qQek)
+[![](https://github.com/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment/blob/main/innovative_conductive_materials.png)](https://youtu.be/hXAfyW_qQek)
 
 ## Download options
 Download this repository if you need the KiCad Files or, Download the Gerber files in the release section of this repository
