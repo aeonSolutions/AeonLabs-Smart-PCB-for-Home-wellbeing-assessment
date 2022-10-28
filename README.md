@@ -12,7 +12,7 @@ Functionalities available:
 * Light intensity sensor;
 * RGB LED;
 * Magnetic Buzzer;
-* **Bio copatible electromagnetic energy detection on glass windows at home or office**
+* **Bio copatible electromagnetic energy detection (Bio EMF) on glass windows at home or office**
   
 
 
