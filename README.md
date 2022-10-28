@@ -75,7 +75,8 @@ Some known conductive paints for interior walls
 - [MG Chemicals Super Shield 845AR]()
  
 <br>
-### other conductive materials
+
+### Other conductive materials
 
 [![](https://github.com/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment/blob/main/innovative_conductive_materials.png)](https://youtu.be/hXAfyW_qQek)
 
