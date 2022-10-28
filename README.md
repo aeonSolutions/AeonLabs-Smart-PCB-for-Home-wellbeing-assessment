@@ -10,7 +10,7 @@
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment/total)
 
 # AeonLabs Smart PCB for Home Wellbeing Assessment
-This repo contains the KiCad files for the Smart PCB for Home well-being assessment. Easy installation on any home or office glass window frame.  
+This repo contains the KiCad files for the Smart PCB for Home well-being assessment. Easy installation on any home or office glass window frame or a building wall. This PCB is mainly intended to do LIVE monitoring of Bio copatible electromagnetic energy detection (Bio EMF)  for biopotential measurements and data assessment of indoor wellbeing qaulity.  
 
 The PCB uses a ESP32-S3 packed with Bluetooth, BLE and WiFi ready to be programmed for Home Assistant.  
 
