@@ -30,6 +30,17 @@ Functionalities available:
 ## Bio copatible electromagnetic energy detection (Bio EMF) on glass windows at home or office
 This PCB uses the AD8232 IC to detect electromagnetic energy in particular in the rage of bio frequencies a human body (and life) operates. The AD8232 is an integrated signal conditioning block for ECG and other biopotential measurement applications. It is designed to extract, amplify, and filter small biopotential signals in the presence of noisy conditions, such as those created by motion or remote electrode placement. 
 
+## Application on Glass windows at a home or Office
+This PCB is intended to be installed into a window frame and powered by a solar tile and small battery. 
+The glass window where this smart device is going to be installed needs to have a conductive coating (any) able to conduct electricity. typical instalations include a ITO conducting flim or manual deposition of a Indium Tin Oxide coating directy into the surface of a window glass. For more information about this kind of coating see:
+- [Indium–tin oxide coatings via chemical solution deposition](https://www.sciencedirect.com/science/article/pii/S0040609001010355)
+- [3D indium tin oxide electrodes by ultrasonic spray deposition for current collection applications](https://documentserver.uhasselt.be/bitstream/1942/24191/2/3D%20ITO.pdf)
+- [Google Search](https://www.google.com/search?q=how+to+coat+Indium+Tin+Oxide+coating&newwindow=1&client=opera&hs=YNl&sxsrf=ALiCzsZfq7i8afkfdW12YNC3LsOIarazfQ%3A1666953136011&ei=sK9bY9Ukh9ySBfGnv7AB&ved=0ahUKEwjVvJ2s3IL7AhUHrqQKHfHTDxYQ4dUDCA4&uact=5&oq=how+to+coat+Indium+Tin+Oxide+coating&gs_lp=Egdnd3Mtd2l6uAED-AEBMgcQABgeGKIEMgUQABiiBDIFEAAYogQyBRAAGKIEMgUQABiiBMICChAAGEcY1gQYsAOQBghI4y1Qnx1Y_ylwAngByAEAkAEBmAH_AaABxAyqAQYwLjExLjHiAwQgTRgB4gMEIEEYAOIDBCBGGACIBgE&sclient=gws-wiz)
+
+## Aplication at side walls (interior and exterior)
+This PCB is intended to be instaled into any side wall of a building and powered by a solar tile and small battery. 
+
+
 ## Download options
 Download this repository if you need the KiCad Files or, Download the Gerber files in the release section of this repository
 
