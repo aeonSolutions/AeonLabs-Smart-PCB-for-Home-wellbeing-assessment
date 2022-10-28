@@ -18,8 +18,8 @@ Functionalities available:
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/total)
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment/total)
 
 ### Status
 ![](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/designs/working_red.png)  comming soon.
