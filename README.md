@@ -63,6 +63,15 @@ This PCB is intended to be instaled into any side wall of a building and powered
 
 ![](https://github.com/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment/blob/main/7-Best-EMF-Shielding-Paints.jpg)
 
+Some known conductive paints for interior walls
+- [ YShield EMF-Shielding Paint HSF54]()
+- [ WOREMOR RF-IE50 EMR & RF Shielding Paint](https://www.amazon.fr/dp/B073C4F2NY/ref=as_li_ss_tl?language=en_US&linkCode=gs2&linkId=c3ad933b28408dcac3eb2fe46142790b&tag=digitalcare0d-21)
+- [ShieldON EMF-Shielding Paint]()
+- [StewMac Conductive Shielding Paint](https://www.amazon.fr/dp/B01HUD0JEG/ref=as_li_ss_tl?language=en_US&linkCode=gs2&linkId=96e9e9c0d5f22df15a566c0d0f276f68&tag=digitalcare0d-21)
+- [GIGAHERTZ Shielding Paint](https://gigahertz-solutions.com/Shielding)
+- [ECOS EMR Shielding Paint](https://ecospaints.net/EMR-Shielding-Paint)
+- [MG Chemicals Super Shield 845AR]()
+ 
 <br>
 
 ## Download options
