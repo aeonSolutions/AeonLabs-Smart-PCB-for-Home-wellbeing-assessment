@@ -45,6 +45,8 @@ Functionalities available:
 ## Bio copatible electromagnetic energy detection (Bio EMF) on glass windows at home or office
 This PCB uses the AD8232 IC to detect electromagnetic energy in particular in the rage of bio frequencies a human body (and life) operates. The AD8232 is an integrated signal conditioning block for ECG and other biopotential measurement applications. It is designed to extract, amplify, and filter small biopotential signals in the presence of noisy conditions, such as those created by motion or remote electrode placement. The AD8232 uses a three electrode interface and implements a two pole high pass filter with a cutoff at 0.3 Hz, and a two-pole low-pass filter with a cutoff frequency of 37 Hz. The total signal gain in the pass band is 400.
   
+  ![](https://github.com/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment/blob/main/ITOglass.png)
+  
 <br>
 
 ## Application on Glass windows at a home or Office
