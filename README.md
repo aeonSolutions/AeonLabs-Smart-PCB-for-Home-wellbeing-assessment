@@ -61,6 +61,8 @@ The glass window where this smart device is going to be installed needs to have 
 ## Aplication at side walls (interior and exterior)
 This PCB is intended to be instaled into any side wall of a building and powered by a solar tile and small battery. The buidling wall where this smart device is going to be installed needs to have a conductive coating (any) able to conduct electricity.
 
+![](https://github.com/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment/blob/main/7-Best-EMF-Shielding-Paints.jpg)
+
 <br>
 
 ## Download options
