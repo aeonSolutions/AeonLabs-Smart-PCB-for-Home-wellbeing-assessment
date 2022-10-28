@@ -57,9 +57,8 @@ The glass window where this smart device is going to be installed needs to have 
 <br>
 
 ## Aplication at side walls (interior and exterior)
-This PCB is intended to be instaled into any side wall of a building and powered by a solar tile and small battery. 
+This PCB is intended to be instaled into any side wall of a building and powered by a solar tile and small battery. The buidling wall where this smart device is going to be installed needs to have a conductive coating (any) able to conduct electricity.
 
-  
 <br>
 
 ## Download options
