@@ -56,6 +56,7 @@ The glass window where this smart device is going to be installed needs to have 
 - [3D indium tin oxide electrodes by ultrasonic spray deposition for current collection applications](https://documentserver.uhasselt.be/bitstream/1942/24191/2/3D%20ITO.pdf)
 - [Google Search](https://www.google.com/search?q=how+to+coat+Indium+Tin+Oxide+coating&newwindow=1&client=opera&hs=YNl&sxsrf=ALiCzsZfq7i8afkfdW12YNC3LsOIarazfQ%3A1666953136011&ei=sK9bY9Ukh9ySBfGnv7AB&ved=0ahUKEwjVvJ2s3IL7AhUHrqQKHfHTDxYQ4dUDCA4&uact=5&oq=how+to+coat+Indium+Tin+Oxide+coating&gs_lp=Egdnd3Mtd2l6uAED-AEBMgcQABgeGKIEMgUQABiiBDIFEAAYogQyBRAAGKIEMgUQABiiBMICChAAGEcY1gQYsAOQBghI4y1Qnx1Y_ylwAngByAEAkAEBmAH_AaABxAyqAQYwLjExLjHiAwQgTRgB4gMEIEEYAOIDBCBGGACIBgE&sclient=gws-wiz)
   
+  [![](...)](https://youtu.be/mHKuA5OZdmU)
 <br>
 
 ## Aplication at side walls (interior and exterior)
