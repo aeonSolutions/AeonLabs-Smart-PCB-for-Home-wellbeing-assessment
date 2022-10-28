@@ -27,7 +27,8 @@ Functionalities available:
 ## Revisions
 - revision 1.x
 
-
+## Bio copatible electromagnetic energy detection (Bio EMF) on glass windows at home or office
+This PCB uses the AD8232 IC to detect electromagnetic energy in particular in the rage of bio frequencies a human body (and life) operates. The AD8232 is an integrated signal conditioning block for ECG and other biopotential measurement applications. It is designed to extract, amplify, and filter small biopotential signals in the presence of noisy conditions, such as those created by motion or remote electrode placement. 
 
 ## Download options
 Download this repository if you need the KiCad Files or, Download the Gerber files in the release section of this repository
