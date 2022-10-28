@@ -6,6 +6,8 @@
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l9sivhsnwk9qr3uuwl9s" alt="trackgit-views" />
 </a>
+![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment.svg)
+![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment/total)
 
 # AeonLabs Smart PCB for Home Wellbeing Assessment
 This repo contains the KiCad files for the Smart PCB for Home well-being assessment. Easy installation on any home or office glass window frame.  
@@ -27,8 +29,6 @@ Functionalities available:
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
-![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment.svg)
-![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-Smart-PCB-for-Home-wellbeing-assessment/total)
 
 ### Status
 ![](https://github.com/aeonSolutions/AeonLabs-Home-Automation-Smart-Coffee-MAchine-Addon/blob/main/designs/working_red.png)  comming soon.
